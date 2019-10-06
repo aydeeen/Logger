@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Repaired problem on Server #13",
+      "attention": false,
+      "tech": "Ajdin Holjan",
+      "date": "2019-09-29T17:31:38.046Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed Error on Main Server",
+      "attention": false,
+      "tech": "John Wick",
+      "date": "2019-09-30T21:41:41.903Z"
+    },
+    {
+      "id": 3,
+      "message": "Critical Error on Workstation #16",
+      "attention": true,
+      "tech": "Clay Claise",
+      "date": "2019-09-30T21:43:25.260Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "John",
+      "lastName": "Wick",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Clay",
+      "lastName": "Claise"
+    }
+  ]
+}
